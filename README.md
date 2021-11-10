@@ -1,3 +1,4 @@
+! [img](https://github.com/Csengupta1101/Password-Generator/blob/main/Password-Gen%20Image.jpg)
 # Password-Generator
 
 Having a weak password is not good for a system that demands high confidentiality and security of user credentials.
